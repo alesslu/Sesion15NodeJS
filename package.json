@@ -1,0 +1,21 @@
+{
+  "name": "sesion15nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sesion15.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alesslu/Sesion15NodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alesslu/Sesion15NodeJS/issues"
+  },
+  "homepage": "https://github.com/alesslu/Sesion15NodeJS#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
